@@ -3,7 +3,7 @@
 Tapestry is a component-oriented Java web app framework focusing on performance and developer productivity.
 
 A *component* is just a reusable part of a page. It's trivially easy to create your own components, and Tapestry
-comes with a large number of components you can use (Form, Loop, Select, Checkbox, Grid, BeanEditor, etc.).
+comes with a large number of components you can use (Form, Loop, Select, Checkbox, Grid, BeanEditor, etc.)
 
 In Tapestry, each page and component is a simple Java POJO with a corresponding HTML template. The HTML template and corresponding Java class have the same name (e.g. "Breadcrumbs.html" and "Breadcrumbs.java"), so you don't have to tell Tapestry which template uses which Java class. It's automatic.
 
